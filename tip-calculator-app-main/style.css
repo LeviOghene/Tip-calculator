@@ -33,6 +33,7 @@ header{
 }
 
 .calculator{
+    margin-top: 40px;
     margin-bottom: 30px;
 }
 
@@ -192,7 +193,6 @@ header{
     width: 100%;
     margin-top: 30px;
     background-color: var(--Strong-cyan);
-    opacity: 0.2;
     border: none;
     color: var(--Very-dark-cyan);
     text-transform: uppercase;
@@ -280,6 +280,7 @@ header{
     }
 
     .reset button{
+         opacity: 0.2;
         margin-top: 120px;
     }
 
